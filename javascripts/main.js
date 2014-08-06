@@ -1,3 +1,1 @@
-$.getJSON("https://s3.amazonaws.com/extend.brackets/registry.json").done(function(data) {
-  console.log("got it");
-});
+console.log('This would be the main JS file.');
